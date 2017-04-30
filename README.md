@@ -1,6 +1,8 @@
 # 7segment-pcb-kit
 Eagle design files for 7-segment PCB kit. This kit is designed to offer a gentle introduction to soldering, DIP switches, 7-segment displays, and can tie in with lesson(s) regarding basic encryption methods - the "keys" attached can change the connections between switches and segments.
 
+![alt text](https://raw.githubusercontent.com/charliebruce/7segment-pcb-kit/master/7-segment.png "PCB Render")
+
 # License
 Released under the CC BY-NC-SA 3.0 license.
 
